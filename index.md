@@ -1,7 +1,7 @@
 # Wills First CS193 Homework
 
 - Meets Once a weak
-- Teaches basic stuff that some people assume you already know
+- Teaches ***basic*** stuff that some people assume you already know
 - Relaxed enviorment
 
 
